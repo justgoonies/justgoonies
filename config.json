@@ -22,7 +22,7 @@
 			"name": "EmuNAND9",
 			"url": "https://d0k3.secretalgorithm.com/latest/EmuNAND9",
 			"inzip": "EmuNAND9.bin",
-			"path": "/luma/payloads/y_EmuNAND9.bin"
+			"path": "/luma/payloads/y_EmuNAND9.bin”
 		},
 		{
 			"name": "SafeMode9",
